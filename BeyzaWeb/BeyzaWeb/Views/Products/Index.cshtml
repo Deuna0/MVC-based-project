@@ -1,0 +1,50 @@
+﻿@model IEnumerable<BeyzaWeb.ViewModels.ProductOrderViewModel>
+
+<div class="PaddingAll">
+    <div class="row m-3">
+        <div class="col-lg-7 col-md-5 col-sm-12">
+            <h2 class="text-primary">Products and Order Details</h2>
+        </div>
+    </div>
+</div>
+
+<div class="PaddingAllWhite">
+    <div class="row">
+        <div class="col">
+            @if (Model != null && Model.Any())
+            {
+                <table class="table table-striped table-bordered">
+                    <thead>
+                        <tr>
+                            <th>ProductID</th>
+                            <th>ProductName</th>
+                            <th>OrderID</th>
+                            <th>UnitPrice</th>
+                            <th>Quantity</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.Product.ProductID</td>
+                                <td>@item.Product.ProductName</td>
+                                <td>@item.OrderDetail.OrderID</td>
+                                <td>@item.OrderDetail.UnitPrice</td>
+                                <td>@item.OrderDetail.Quantity</td>
+                                <td>
+                                    <div class="row">
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <p>No products and order details available.</p>
+            }
+        </div>
+    </div>
+</div>

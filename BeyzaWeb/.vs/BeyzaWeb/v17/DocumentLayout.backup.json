@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\beyzaweb\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|solutionrelative:beyzaweb\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5D01AB-2E63-4F38-96FC-AD99861BE7B0}|ModelClasses\\ModelClasses.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\modelclasses\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5D01AB-2E63-4F38-96FC-AD99861BE7B0}|ModelClasses\\ModelClasses.csproj|solutionrelative:modelclasses\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\beyzaweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|solutionrelative:beyzaweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\beyzaweb\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|solutionrelative:beyzaweb\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\beyzaweb\\viewmodels\\productorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|solutionrelative:beyzaweb\\viewmodels\\productorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\beyzaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|solutionrelative:beyzaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\beyzaweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|solutionrelative:beyzaweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5D01AB-2E63-4F38-96FC-AD99861BE7B0}|ModelClasses\\ModelClasses.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\modelclasses\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5D01AB-2E63-4F38-96FC-AD99861BE7B0}|ModelClasses\\ModelClasses.csproj|solutionrelative:modelclasses\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\beyzaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|solutionrelative:beyzaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D258660-81A8-4E85-9CF2-707A3629A1CC}|DataBaseAccess\\DataBaseAccess.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\databaseaccess\\migrations\\20240905110242_sonhal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D258660-81A8-4E85-9CF2-707A3629A1CC}|DataBaseAccess\\DataBaseAccess.csproj|solutionrelative:databaseaccess\\migrations\\20240905110242_sonhal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D258660-81A8-4E85-9CF2-707A3629A1CC}|DataBaseAccess\\DataBaseAccess.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\databaseaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D258660-81A8-4E85-9CF2-707A3629A1CC}|DataBaseAccess\\DataBaseAccess.csproj|solutionrelative:databaseaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\beyzaweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|solutionrelative:beyzaweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D258660-81A8-4E85-9CF2-707A3629A1CC}|DataBaseAccess\\DataBaseAccess.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\databaseaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D258660-81A8-4E85-9CF2-707A3629A1CC}|DataBaseAccess\\DataBaseAccess.csproj|solutionrelative:databaseaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\beyzaweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|solutionrelative:beyzaweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\beyzaweb\\beyzaweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|solutionrelative:beyzaweb\\beyzaweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\beyzaweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|solutionrelative:beyzaweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5D01AB-2E63-4F38-96FC-AD99861BE7B0}|ModelClasses\\ModelClasses.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\modelclasses\\modelclasses.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E5D01AB-2E63-4F38-96FC-AD99861BE7B0}|ModelClasses\\ModelClasses.csproj|solutionrelative:modelclasses\\modelclasses.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\beyzaweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|solutionrelative:beyzaweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\beyzaweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|solutionrelative:beyzaweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\beyzaweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|solutionrelative:beyzaweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\beyzaweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|solutionrelative:beyzaweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\beyzaweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADE3BF24-E18E-4174-AAB5-85DBE2102644}|BeyzaWeb\\BeyzaWeb.csproj|solutionrelative:beyzaweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\DataBaseAccess\\Migrations\\20240905065750_InitialCreate.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataBaseAccess\\Migrations\\20240905065750_InitialCreate.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D258660-81A8-4E85-9CF2-707A3629A1CC}|DataBaseAccess\\DataBaseAccess.csproj|c:\\users\\beyza  nur bak\u0130\\onedrive\\masa\u00FCst\u00FC\\erak-proje\\deneme\\beyzaweb\\databaseaccess\\migrations\\20240906051509_deneme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D258660-81A8-4E85-9CF2-707A3629A1CC}|DataBaseAccess\\DataBaseAccess.csproj|solutionrelative:databaseaccess\\migrations\\20240906051509_deneme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\ModelClasses\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "ModelClasses\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\ModelClasses\\OrderDetails.cs",
+              "RelativeToolTip": "ModelClasses\\OrderDetails.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:11:24.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "BeyzaWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\appsettings.json",
+              "RelativeToolTip": "BeyzaWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T10:02:59.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "BeyzaWeb\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "BeyzaWeb\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:16:54.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductOrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\ViewModels\\ProductOrderViewModel.cs",
+              "RelativeDocumentMoniker": "BeyzaWeb\\ViewModels\\ProductOrderViewModel.cs",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\ViewModels\\ProductOrderViewModel.cs",
+              "RelativeToolTip": "BeyzaWeb\\ViewModels\\ProductOrderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:37:02.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\ModelClasses\\Products.cs",
+              "RelativeDocumentMoniker": "ModelClasses\\Products.cs",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\ModelClasses\\Products.cs",
+              "RelativeToolTip": "ModelClasses\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:47:01.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BeyzaWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BeyzaWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:09:02.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "BeyzaWeb\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "BeyzaWeb\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:18:48.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Program.cs",
+              "RelativeDocumentMoniker": "BeyzaWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Program.cs",
+              "RelativeToolTip": "BeyzaWeb\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:12:28.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240906051509_DENEME.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\DataBaseAccess\\Migrations\\20240906051509_DENEME.cs",
+              "RelativeDocumentMoniker": "DataBaseAccess\\Migrations\\20240906051509_DENEME.cs",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\DataBaseAccess\\Migrations\\20240906051509_DENEME.cs",
+              "RelativeToolTip": "DataBaseAccess\\Migrations\\20240906051509_DENEME.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:15:09.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BeyzaWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BeyzaWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:25:30.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240905110242_SonHal.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\DataBaseAccess\\Migrations\\20240905110242_SonHal.cs",
+              "RelativeDocumentMoniker": "DataBaseAccess\\Migrations\\20240905110242_SonHal.cs",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\DataBaseAccess\\Migrations\\20240905110242_SonHal.cs",
+              "RelativeToolTip": "DataBaseAccess\\Migrations\\20240905110242_SonHal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:02:42.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BeyzaWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "BeyzaWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T11:41:33.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\DataBaseAccess\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataBaseAccess\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\DataBaseAccess\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataBaseAccess\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:45:43.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\DataBaseAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataBaseAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\DataBaseAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DataBaseAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAIAwwPEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:54:36.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bootstrap.esm.js",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "RelativeDocumentMoniker": "BeyzaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "RelativeToolTip": "BeyzaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "ViewState": "AgIAAMEDAAAAAAAAAAArwM4DAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-05T11:12:05.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BeyzaWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\BeyzaWeb.csproj",
+              "RelativeDocumentMoniker": "BeyzaWeb\\BeyzaWeb.csproj",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\BeyzaWeb.csproj",
+              "RelativeToolTip": "BeyzaWeb\\BeyzaWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T18:42:54.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BeyzaWeb\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BeyzaWeb\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:04:42.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModelClasses.csproj",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\ModelClasses\\ModelClasses.csproj",
+              "RelativeDocumentMoniker": "ModelClasses\\ModelClasses.csproj",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\ModelClasses\\ModelClasses.csproj",
+              "RelativeToolTip": "ModelClasses\\ModelClasses.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T07:17:04.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BeyzaWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BeyzaWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:30:12.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BeyzaWeb\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BeyzaWeb\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T07:10:07.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240905065750_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\DataBaseAccess\\Migrations\\20240905065750_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "DataBaseAccess\\Migrations\\20240905065750_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\DataBaseAccess\\Migrations\\20240905065750_InitialCreate.Designer.cs",
+              "RelativeToolTip": "DataBaseAccess\\Migrations\\20240905065750_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAD4v/IAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:06:38.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "BeyzaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeToolTip": "BeyzaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ViewState": "AgIAAM8GAAAAAAAAAAD4v9wGAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-05T04:49:10.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BeyzaWeb\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BeyzaWeb\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:30:13.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BeyzaWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Beyza  Nur BAK\u0130\\OneDrive\\Masa\u00FCst\u00FC\\ERAK-PROJE\\Deneme\\BeyzaWeb\\BeyzaWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BeyzaWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:30:12.895Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
